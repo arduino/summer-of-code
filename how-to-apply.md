@@ -45,7 +45,7 @@ Your proposal must be submitted through the Google Summer of Code website. It is
 Please read and follow the [GSoC student guide on writing proposals](https://google.github.io/gsocguides/student/writing-a-proposal). Also:
 
 * Don't be afraid to give us lots of detail about how you would approach the project.
-* Our application should make us believe that you are capable of completing the project and delivering the functionality to our users. If you aren't sure about anything, get in touch with us, we're happy to advise you.
+* Your application should make us believe that you are capable of completing the project and delivering the functionality to our users. If you aren't sure about anything, get in touch with us, we're happy to advise you.
 
 You can use our [base template](proposal-template.md) to draft your application in Markdown format. If you don't know what Markdown is, we recommend you familiarize with it anyway ;-)
 
