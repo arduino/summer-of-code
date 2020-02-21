@@ -15,7 +15,7 @@ _These tips can help your application! They are not strictly required._
 * Read the official [GSoC student guide](https://google.github.io/gsocguides/student/) and the [GSoC FAQ](https://developers.google.com/open-source/gsoc/faq).
 * Review our [ideas list](ideas.md) and ask questions about projects you're potentially interested in on the [issue tracker](https://github.com/arduino/summer-of-code/issues)
 * Once you've decided on a project, follow these Application Instructions to write a draft proposal.
-* Experience shows that the best thing to help your application is to contact the organization you want to work with early. For this you can introduce yourself on our [GSoC issue tracker](https://github.com/arduino/summer-of-code/issues), and perhaps fix a small bug in our of our repositories and link it in your introductive post. 
+* Experience shows that the best thing to help your application is to contact the organization you want to work with early. For this you can introduce yourself on our [GSoC issue tracker](https://github.com/arduino/summer-of-code/issues), and perhaps fix a small bug in one of our repositories and link it in your introductive post. 
 * Get feedback from us before you submit a final application.
 * If you're proposing a project that's not on our official ideas list, please talk to us to see if there is any mentor interested in mentoring that project before you put any work into the proposal.
 
@@ -45,7 +45,7 @@ Your proposal must be submitted through the Google Summer of Code website. It is
 Please read and follow the [GSoC student guide on writing proposals](https://google.github.io/gsocguides/student/writing-a-proposal). Also:
 
 * Don't be afraid to give us lots of detail about how you would approach the project.
-* Our application should make us believe that you are capable of completing the project and delivering the functionality to our users. If you aren't sure about anything, get in touch with us, we're happy to advise you.
+* Your application should make us believe that you are capable of completing the project and delivering the functionality to our users. If you aren't sure about anything, get in touch with us, we're happy to advise you.
 
 You can use our [base template](proposal-template.md) to draft your application in Markdown format. If you don't know what Markdown is, we recommend you familiarize with it anyway ;-)
 
