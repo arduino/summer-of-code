@@ -4,7 +4,8 @@
 
 If you are a student interested in submitting a proposal to CC, start by checking out our [Project Ideas](ideas.md) page to find an idea that you would like to write a proposal to work on during GSoC.
 
-Take a look at the [Arduino website](https://arduino.cc) to learn more about what we do. Also look at our GitHub organizations ([arduino](https://github.com/arduino) and [arduino-libraries](https://github.com/arduino-libraries)) and our [forum](https://forum.arduino.cc) to get a sense of the code and projects we work on. Making a successful contribution to one of our projects will help us get a sense of your work and is highly recommended.
+Take a look at the [Arduino website](https://arduino.cc) to learn more about what we do. Also look at our GitHub organizations ([arduino](https://github.com/arduino) and [arduino-libraries](https://github.com/arduino-libraries)) and our [forum](https://forum.arduino.cc) to get a sense of the code and projects we work on. 
+Making a successful contribution to one of our projects will help us get a sense of your work and is highly recommended.
 
 ## Expectations
 
