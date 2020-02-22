@@ -1,3 +1,4 @@
+# Happy Arduino Day on 21st March
 # GSoC @ Arduino: Application Instructions
 
 ## Before you apply
