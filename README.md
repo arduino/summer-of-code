@@ -8,7 +8,7 @@ Arduino is applying as a mentoring organization for GSoC 2020. This repository s
 
 ## Why should I work with Arduino?
 
-Arduino is fully committed to creating open source hardware and software. The Arduino community is one of the largest tech communities in the world, and our collaborative efforts have a big impact on democratizing electronics. Working with us is a great opportunity to work on code that is used daily by millions of people. The quality of the Arduino hardware as well as the Arduino software and libraries is what glued this community: will you work with us to improve all this?
+Arduino is fully committed to creating open source hardware and software. The Arduino community is one of the largest tech communities in the world, and our collaborative efforts have a big impact on democratizing electronics. Working with us is a great opportunity to work on code that is used daily by millions of people. The quality of the Arduino hardware as well as the Arduino software and libraries is what glued this community. Will you work with us to improve all this?
 
 ## How can I apply?
 
