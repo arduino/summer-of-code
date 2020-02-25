@@ -16,7 +16,7 @@ The new [Portenta](https://www.arduino.cc/pro/hardware/product/portenta-h7) boar
 
 * *Languages:* Python, C++
 * *Difficulty:* Medium/Advanced
-* *Note:* accepted students will be sent a free Portenta board.
+* *Note:* accepted students will be sent a free Portenta board (The Portenta boards will be ready for shipment approximately at the end of March 2020).
 
 ## Write JerryScript (JavaScript) examples and tools for Portenta
 
