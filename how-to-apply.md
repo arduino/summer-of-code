@@ -14,7 +14,7 @@ _These tips can help your application! They are not strictly required._
 
 * Read the official [GSoC student guide](https://google.github.io/gsocguides/student/) and the [GSoC FAQ](https://developers.google.com/open-source/gsoc/faq).
 * Review our [ideas list](ideas.md) and ask questions about projects you're potentially interested in on the [issue tracker](https://github.com/arduino/summer-of-code/issues)
-* Introduce yourself on our [GSoC issue tracker](https://github.com/arduino/summer-of-code/issues) - **The issue you open will be the communication channel between you and us from now on.**
+* Introduce yourself on our [GSoC issue tracker](https://github.com/arduino/summer-of-code/issues) - **The issue will be the communication channel between you and us from now on.**
 * Fix a bug in one of our repositories, submit a Pull Request and link it in your introductive post. We suggest you pick one of the bugs listed in one of these repositories:
     * https://github.com/arduino/Arduino
     * https://github.com/arduino/arduino-cli
@@ -49,7 +49,7 @@ Your proposal must be submitted through the Google Summer of Code website. It is
 Please read and follow the [GSoC student guide on writing proposals](https://google.github.io/gsocguides/student/writing-a-proposal). Also:
 
 * Don't be afraid to give us lots of detail about how you would approach the project.
-* Our application should make us believe that you are capable of completing the project and delivering the functionality to our users. If you aren't sure about anything, get in touch with us: we're happy to advise you.
+* Your application should make us believe that you are capable of completing the project and delivering the functionality to our users. If you aren't sure about anything, get in touch with us, we're happy to advise you.
 
 You can use our [base template](proposal-template.md) to draft your application in Markdown format. If you don't know what Markdown is, we recommend you familiarize with it anyway ;-)
 
