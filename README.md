@@ -12,7 +12,8 @@ Arduino is fully committed to creating open source hardware and software. The Ar
 
 ## How can I apply?
 
-Read [this document](how-to-apply.md) to learn how to apply for the GSoC program with Arduino. Please also check out our [ideas list](ideas.md).
+* Read [the application guide](how-to-apply.md) and the [ideas list](ideas.md).
+* Open an issue in this [issue tracker](https://github.com/arduino/summer-of-code/issues) (only **one issue per student**): you can use it to ask questions and communicate with us.
 
-For any questions, please open an issue in our [issue tracker](https://github.com/arduino/summer-of-code/issues) or send an e-mail to [summer-of-code@arduino.cc](mailto:summer-of-code@arduino.cc).
+The issue tracker of this repository is the preferred way to communicate with us. Should you have private inquiries, send an e-mail to [summer-of-code@arduino.cc](mailto:summer-of-code@arduino.cc).
 
