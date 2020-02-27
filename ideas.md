@@ -39,7 +39,7 @@ The new [Portenta](https://www.arduino.cc/pro/hardware/product/portenta-h7) boar
 
 ### Idea: write JerryScript (JavaScript) examples and tools for Portenta
 
-The new [Portenta](https://www.arduino.cc/pro/hardware/product/portenta-h7) board supports [JerryScript](https://jerryscript.net) in addition to Arduino code. This combination opens up many new opportunities. This task is about writing examples about using MicroPython on a Portenta board.
+The new [Portenta](https://www.arduino.cc/pro/hardware/product/portenta-h7) board supports [JerryScript](https://jerryscript.net) in addition to Arduino code. This combination opens up many new opportunities. This task is about writing examples about using JerryScript (JavaScript) on a Portenta board.
 
 * *Languages:* JavaScript, C++
 * *Difficulty:* Medium/Advanced
