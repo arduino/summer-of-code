@@ -29,6 +29,14 @@ Many of the official libraries need more examples in order to help users underst
 
 ## Portenta
 
+### Idea: port FreeRTOS to Portenta
+
+This task is about porting [FreeRTOS](https://www.freertos.org) to the new [Portenta](https://www.arduino.cc/pro/hardware/product/portenta-h7) board.
+
+* *Languages:* C++
+* *Difficulty:* Advanced
+* *Note:* accepted students will be sent a free Portenta board. Make sure your application contains proof of experience with the low level programming required for such task.
+
 ### Idea: write MicroPython examples and tools for Portenta
 
 The new [Portenta](https://www.arduino.cc/pro/hardware/product/portenta-h7) board supports [MicroPython](https://micropython.org) in addition to Arduino code. This combination opens up many new opportunities. This task is about writing examples about using MicroPython on a Portenta board.
