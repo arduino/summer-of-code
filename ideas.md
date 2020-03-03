@@ -31,6 +31,8 @@ Bonus points to students who also plan to build hardware prototypes that show ho
 
 ## Portenta
 
+The Portenta board is not available yet, but accepted students will be sent a free one. For now, since we're finalizing the first code repositories, it's not possible to send early contributions. You can still send some contributions to another Arduino repo even if you plan to work on a Portenta (see the [application guide](how-to-apply.md)).
+
 ### Idea: port FreeRTOS to Portenta
 
 This task is about porting [FreeRTOS](https://www.freertos.org) to the new [Portenta](https://www.arduino.cc/pro/hardware/product/portenta-h7) board.
