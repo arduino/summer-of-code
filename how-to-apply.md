@@ -56,5 +56,5 @@ You can use our [base template](proposal-template.md) to draft your application 
 Your final proposal must be submitted to GSoC as a PDF file, so you can use Pandoc to generate one from your Markdown file:
 
 ```
-$ pandoc -f markdown -t pdf your-name.md
+$ pandoc your-name.md -o your-name.pdf
 ```
