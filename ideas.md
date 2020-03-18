@@ -55,10 +55,12 @@ Bonus points to students who also plan to build hardware prototypes around their
 
 The new [Portenta](https://www.arduino.cc/pro/hardware/product/portenta-h7) board supports [JerryScript](https://jerryscript.net) in addition to Arduino code. This combination opens up many new opportunities. This task is about writing examples about using JerryScript (JavaScript) on a Portenta board. Any example is welcome: for example, you might show how to use the hardware peripherals from JavaScript, or you might want to port Arduino examples to JavaScript.
 
+JerryScript can run on Portenta on top of mbed. See [this documentation](https://os.mbed.com/javascript-on-mbed/) for reference.
+
 Bonus points to students who also plan to build hardware prototypes around their examples (and document them in [Project Hub](https://create.arduino.cc/projecthub)).
 
 * *Languages:* JavaScript, C++
-* *Difficulty:* Medium/Advanced
+* *Difficulty:* Advanced
 * *Note:* accepted students will be sent a free Portenta board.
 
 ## arduino-cli
