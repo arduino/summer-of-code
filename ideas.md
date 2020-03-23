@@ -16,7 +16,7 @@ Assuring quality of the Arduino libraries is very important. This task is about 
 
 This crawler should output a detailed summary of the findings.
 
-* *Languages:* C++
+* *Languages:* Go (crawler), C++ (static analyzer)
 * *Difficulty:* Easy/Medium
 
 ### Idea: write examples for official libraries
