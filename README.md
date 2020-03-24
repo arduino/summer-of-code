@@ -33,7 +33,7 @@ The issue tracker of this repository is the preferred way to communicate with us
 
 This information is Also available at GSoC 2020 Portal [Click Here](https://summerofcode.withgoogle.com/how-it-works/#timeline)
 
-**Don't Forget to update your Schedule of Deliverables in your project proposal** 
+**Don't Forget to update your Schedule of Deliverables(if any) in your project proposal** 
 
 
 
