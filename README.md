@@ -17,3 +17,26 @@ Arduino is fully committed to creating open-source hardware and software. The Ar
 
 The issue tracker of this repository is the preferred way to communicate with us. Should you have private inquiries, send an e-mail to [summer-of-code@arduino.cc](mailto:summer-of-code@arduino.cc).
 
+## What is the Detailed Timeline for Google Summer of Code 2020(Updated)?
+
+* Now - March 31 18:00 UTC: Students submit their final proposals and proof of enrollment
+* March 31 - May 4: Mentors review proposals and select students
+* May 4: Accepted GSoC 2020 students/projects are announced
+* May 4 - 31: Community Bonding Period
+* June 1: Coding begins
+* June 29 - July 3: First evaluation period - mentors evaluate students, students evaluate *   
+  mentors
+* July 27 - 31: Second evaluation period - mentors evaluate students, students evaluate mentors
+* August 24 -31: Students wrap up their projects and submit final evaluation of their mentor
+* August 31 - September 7: Mentors submit final evaluations of students
+* September 8: Students passing GSoC 2020 are announced
+
+This information is Also available at GSoC 2020 Portal [Click Here](https://summerofcode.withgoogle.com/how-it-works/#timeline)
+
+**Don't Forget to update your Schedule of Deliverables in your project proposal** 
+
+
+
+* Open an issue in this [issue tracker](https://github.com/arduino/summer-of-code/issues) (only **one issue per student**): you can use it to ask questions and communicate with us.
+
+The issue tracker of this repository is the preferred way to communicate with us. Should you have private inquiries, send an e-mail to [summer-of-code@arduino.cc](mailto:summer-of-code@arduino.cc).
