@@ -24,7 +24,7 @@ The issue tracker of this repository is the preferred way to communicate with us
 * May 4: Accepted GSoC 2020 students/projects are announced
 * May 4 - 31: Community Bonding Period
 * June 1: Coding begins
-* June 29 - July 3: First evaluation period - mentors evaluate students, students evaluate *   
+* June 29 - July 3: First evaluation period - mentors evaluate students, students evaluate   
   mentors
 * July 27 - 31: Second evaluation period - mentors evaluate students, students evaluate mentors
 * August 24 -31: Students wrap up their projects and submit final evaluation of their mentor
