@@ -17,7 +17,7 @@ Arduino is fully committed to creating open-source hardware and software. The Ar
 
 The issue tracker of this repository is the preferred way to communicate with us. Should you have private inquiries, send an e-mail to [summer-of-code@arduino.cc](mailto:summer-of-code@arduino.cc).
 
-## What is the Detailed Timeline for Google Summer of Code 2020(Updated)?
+## What is the Detailed Timeline for Google Summer of Code 2020 ?
 
 * The information regarding the detailed timeline is available at GSoC 2020 Portal [Click Here](https://summerofcode.withgoogle.com/how-it-works/#timeline)
 **Don't Forget to update your Schedule of Deliverables(if any) in your project proposal** 
