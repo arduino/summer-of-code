@@ -10,6 +10,11 @@ Arduino is applying as a mentoring organization for GSoC 2020. This repository s
 
 Arduino is fully committed to creating open-source hardware and software. The Arduino community is one of the largest tech communities in the world, and our collaborative efforts have a big impact on democratizing electronics. Working with us is a great opportunity to work on code that is used daily by millions of people. The quality of the Arduino hardware, as well as the Arduino software and libraries, is what glued this community: will you work with us to improve all this?
 
+## What is the Detailed Timeline for Google Summer of Code 2020 ?
+
+* The information regarding the detailed timeline is available at GSoC 2020 Portal [Click Here](https://summerofcode.withgoogle.com/how-it-works/#timeline)
+**Don't Forget to update your Schedule of Deliverables(if any) in your project proposal** 
+
 ## How can I apply?
 
 * Read [the application guide](how-to-apply.md) and the [ideas list](ideas.md).
@@ -17,7 +22,4 @@ Arduino is fully committed to creating open-source hardware and software. The Ar
 
 The issue tracker of this repository is the preferred way to communicate with us. Should you have private inquiries, send an e-mail to [summer-of-code@arduino.cc](mailto:summer-of-code@arduino.cc).
 
-## What is the Detailed Timeline for Google Summer of Code 2020 ?
 
-* The information regarding the detailed timeline is available at GSoC 2020 Portal [Click Here](https://summerofcode.withgoogle.com/how-it-works/#timeline)
-**Don't Forget to update your Schedule of Deliverables(if any) in your project proposal** 
