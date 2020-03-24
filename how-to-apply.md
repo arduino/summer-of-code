@@ -24,12 +24,12 @@ _These tips can help your application! They are not strictly required._
 * Get feedback from us (via the issue tracker) before you submit a final application.
 * If you're proposing a project that's not on our official ideas list, please talk to us to see if there is any mentor interested in mentoring that project before you put any work into the proposal.
 
-### During the community bonding period (April 27th - May 18th)
+### During the community bonding period (May 4th - May 31st)
 
 * Continue to plan your project with your mentor and the community.
 * Get an Arduino board (an original one!) and familiarize with it so that you know what you're working for.
 
-### During the summer (May 18th - August 17th)
+### During the summer (May 31st - August 31st)
 
 * Write a short report for us every week in your GitHub issue.
 * Work 30-40 hours per week (or agree on a different plan with your mentor ahead of time).
