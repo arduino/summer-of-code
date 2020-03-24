@@ -13,7 +13,7 @@ Arduino is fully committed to creating open-source hardware and software. The Ar
 ## What is the Detailed Timeline for Google Summer of Code 2020 ?
 
 * The information regarding the detailed timeline is available at GSoC 2020 Portal [Click Here](https://summerofcode.withgoogle.com/how-it-works/#timeline)
-**Don't Forget to update your Schedule of Deliverables(if any) in your project proposal** 
+**Don't Forget to update your Schedule of Deliverables (if any) in your project proposal** 
 
 ## How can I apply?
 
