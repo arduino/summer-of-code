@@ -65,10 +65,10 @@ Bonus points to students who also plan to build hardware prototypes around their
 
 ## arduino-cli
 
-### Idea: add network discovery support to arduino-cli
+### Idea: add external programmers support to arduino-cli
 
-[arduino-cli](https://github.com/arduino/arduino-cli) is a command line tool for programming Arduino boards. This task is about implementing a functionality for discovering boards over network in addition to USB.
-See more details in https://github.com/arduino/arduino-cli/issues/344
+[arduino-cli](https://github.com/arduino/arduino-cli) is a command line tool for programming Arduino boards. This task is about implementing a functionality for supporting external programmers, in order to enable flashing boards without bootloader or to install/repair bootloaders.
+See more details in https://github.com/arduino/arduino-cli/issues/27 and linked issues
 
 * *Languages:* Go
 * *Difficulty:* Advanced
