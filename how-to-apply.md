@@ -31,7 +31,7 @@ _These tips can help your application! They are not strictly required._
 
 ### During the summer (May 18th - August 17th)
 
-* Write a short report for us every week in your GitHub issue.
+* Write a short report for us every week in your GitHub issue or forum thread, as agreed with mentors.
 * Work 30-40 hours per week (or agree on a different plan with your mentor ahead of time).
 * Commit early and commit often! Push to a public GitHub repository so that we can see and review your work.
 * Actively work on our project timeline and communicate with us during the community bonding period.
