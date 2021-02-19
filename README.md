@@ -1,6 +1,8 @@
 # Arduino @ Google Summer of Code
 
-Arduino is applying as a mentoring organization for GSoC 2020. This repository stores the relevant information.
+Arduino was a mentoring organization for GSoC 2020. This repository stores the relevant information.
+
+> ⚠️ Arduino is not applying for GSoC 2021, but any contribution to our open source projects is very welcome!
 
 [Arduino](https://arduino.cc) is an open-source electronics platform based on easy-to-use hardware and software. It's intended for anyone making interactive projects. Over the years Arduino has been the brain of thousands of projects, from everyday objects to complex scientific instruments. A worldwide community of makers - tens of millions of students, hobbyists, artists, programmers, and professionals - has gathered around this open-source platform, their contributions have added up to an incredible amount of accessible knowledge that can be of great help to novices and experts alike.
 
